@@ -132,6 +132,14 @@ button:hover {
   background-color: #3949ab;
 }
 
+#unregister-container button {
+  background-color: #d32f2f;
+}
+
+#unregister-container button:hover {
+  background-color: #f44336;
+}
+
 .message {
   margin-top: 20px;
   padding: 10px;
